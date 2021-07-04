@@ -1,0 +1,1 @@
+This is my first CSS and HTML Project I'm going to make with "The Odin Project". I am going to create a replica of the Google.com Homepage.
